@@ -163,7 +163,7 @@ ORDER BY Total_Sales DESC;
 
 **Omkar Patil**
 
-Aspiring Data Analyst
+Aspiring Data Analyst | Excel | Power BI
 
 GitHub:
 https://github.com/datawith-omkar
