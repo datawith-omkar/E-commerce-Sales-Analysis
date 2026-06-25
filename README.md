@@ -169,11 +169,8 @@ GitHub:
 https://github.com/datawith-omkar
 
 LinkedIn:
-(https://www.linkedin.com/in/omkarpatil-patil1515)
+(https://www.linkedin.com/in/omkar-patil1515)
 
 Resume
 ( )
 
-
----
-⭐ If you found this project useful, consider giving it a star.
