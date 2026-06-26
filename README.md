@@ -129,28 +129,24 @@ ORDER BY Total_Sales DESC;
 - Total Orders
 - Profit Margin %
 - Monthly Revenue Trend
-- <img width="892" height="105" alt="Overview Dashboard KPI" src="https://github.com/user-attachments/assets/5f054bbf-500d-4c95-bbb5-00ea8301b30a" />
 - <img width="1140" height="647" alt="image" src="https://github.com/user-attachments/assets/131ca6e9-2ccd-4ad9-b03e-255c74015c12" />
 
 ### Page 2: Customer Insights
 - Revenue by Segment
 - Top Customers
 - Customer Contribution
--<img width="542" height="110" alt="Customer Insights KPI" src="https://github.com/user-attachments/assets/02b40682-f121-4d63-abc9-d72936315e2b" />
 <img width="1138" height="632" alt="customer-insights" src="https://github.com/user-attachments/assets/65c4ebda-9049-4b70-9871-2a730b8f611b" />
 
 ### Page 3: Product Performance
 - Revenue by Category
 - Revenue by Sub-Category
 - Top Products
-- <img width="481" height="111" alt="Product Performance KPI" src="https://github.com/user-attachments/assets/34e56ff8-ea87-487a-bd0c-4de1fe38c2c5" />
 - <img width="1162" height="647" alt="product-performance" src="https://github.com/user-attachments/assets/42ca986f-a2c5-4d8a-8f57-22654322b469" />
 
 ### Page 4: Regional Analysis
 - Revenue by Region
 - Profit by Region
 - State Performance
-- <img width="365" height="115" alt="Regional Analysis KPI" src="https://github.com/user-attachments/assets/06d61ff6-6959-4d62-9828-121a799b8b5d" />
 - <img width="1167" height="652" alt="regional-analysis" src="https://github.com/user-attachments/assets/8a0ec46b-098b-451a-880d-d35669d8704d" />
 
 ---
@@ -187,7 +183,3 @@ https://github.com/datawith-omkar
 
 LinkedIn:
 (https://www.linkedin.com/in/omkar-patil1515)
-
-Resume
-("C:\Users\omkar\Downloads\Omkar Nitin Patil.pdf")
-
