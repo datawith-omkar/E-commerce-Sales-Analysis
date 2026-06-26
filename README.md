@@ -21,23 +21,34 @@ The objective is to transform raw sales data into actionable business insights t
 ## 📂 Project Structure
 
 ```
-Ecommerce-Sales-Analysis/
+ecommerce-sql-analysis/
 │
-├── Dataset/
-│   └── ecommerce_data.csv
+├── README.md
 │
-├── SQL/
+├── dataset/
+│   └── Sample_Data.csv
+├── KPI/
+│   └── 
+│
+├── sql/
 │   ├── 01_database_creation.sql
-│   ├── 02_data_cleaning.sql
-│   ├── 03_exploratory_analysis.sql
-│   └── 04_business_queries.sql
+│   ├── 02_data_quality_checks.sql
+│   ├── 03_kpi_analysis.sql
+│   ├── 04_customer_analytics.sql
+│   ├── 05_product_analytics.sql
+│   ├── 06_geographical_analysis.sql
+│   ├── 07_time_series_analysis.sql
+│   └── 08_advanced_business_kpis.sql
 │
-├── PowerBI/
-│   └── Ecommerce_Sales_Dashboard.pbix
+├── dashboard/
+│   ├── Ecommerce_Dashboard.pbix
+│   └── Dashboard-overview.png
+│   ├── customer-insights.png
+│   ├── product-performance.png
+│   └── regional-analysis.png
 │
-├── Dashboard_Screenshots/
-│
-└── README.md
+└── report/
+    └── Project_Report.pdf
 ```
 
 ---
@@ -112,7 +123,8 @@ ORDER BY Total_Sales DESC;
 
 ## Page 1: Executive Overview
 
-[![Executive Overview](images/dashboard-overview.png)](images/dashboard-overview.png)
+### Executive Summary
+![Executive Summary](dashboard/dashboard-overview.png")
 
 - Total Revenue
 - Total Profit
