@@ -108,8 +108,12 @@ ORDER BY Total_Sales DESC;
 
 ## 📊 Power BI Dashboard Features
 
-### Page 1: Executive Overview
-["C:\Users\omkar\Desktop\Ecommerce-Sales Analysis\dashboard-overview.png"]
+# 📊 Power BI Dashboard Features
+
+## Page 1: Executive Overview
+
+[![Executive Overview](images/dashboard-overview.png)](images/dashboard-overview.png)
+
 - Total Revenue
 - Total Profit
 - Total Orders
@@ -117,7 +121,7 @@ ORDER BY Total_Sales DESC;
 - Monthly Revenue Trend
 
 ### Page 2: Customer Insights
-[customer-insights.png]
+["customer-insights.png"]
 - Revenue by Segment
 - Top Customers
 - Customer Contribution
