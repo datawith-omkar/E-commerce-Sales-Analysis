@@ -124,8 +124,6 @@ ORDER BY Total_Sales DESC;
 ## Page 1: Executive Overview
 
 ### Executive Summary
-![Executive Summary](dashboard/dashboard-overview.png")
-
 - Total Revenue
 - Total Profit
 - Total Orders
@@ -133,19 +131,16 @@ ORDER BY Total_Sales DESC;
 - Monthly Revenue Trend
 
 ### Page 2: Customer Insights
-["customer-insights.png"]
 - Revenue by Segment
 - Top Customers
 - Customer Contribution
 
 ### Page 3: Product Performance
-[product-performance.png]
 - Revenue by Category
 - Revenue by Sub-Category
 - Top Products
 
 ### Page 4: Regional Analysis
-[regional-analysis.png]
 - Revenue by Region
 - Profit by Region
 - State Performance
