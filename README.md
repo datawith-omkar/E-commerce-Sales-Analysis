@@ -147,12 +147,6 @@ ORDER BY Total_Sales DESC;
 
 ---
 
-## 📷 Dashboard Preview
-
-("C:\Users\omkar\Desktop\Ecommerce data Analysiss.pbix")
-
----
-
 ## 📈 Key Insights
 
 - Technology category generated the highest revenue.
