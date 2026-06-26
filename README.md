@@ -28,7 +28,10 @@ ecommerce-sql-analysis/
 ├── dataset/
 │   └── Sample_Data.csv
 ├── KPI/
-│   └── 
+│   └── Dashboard-overview KPI.png
+│   ├── customer-insights KPI.png
+│   ├── product-performance KPI.png
+│   └── regional-analysis KPI.png
 │
 ├── sql/
 │   ├── 01_database_creation.sql
@@ -117,8 +120,6 @@ ORDER BY Total_Sales DESC;
 
 ---
 
-## 📊 Power BI Dashboard Features
-
 # 📊 Power BI Dashboard Features
 
 ## Page 1: Executive Overview
@@ -129,6 +130,7 @@ ORDER BY Total_Sales DESC;
 - Total Orders
 - Profit Margin %
 - Monthly Revenue Trend
+<img width="1151" height="647" alt="dashboard-overview" src="https://github.com/user-attachments/assets/27fde78e-b552-49b5-a1bc-69f152f71695" />
 
 ### Page 2: Customer Insights
 - Revenue by Segment
