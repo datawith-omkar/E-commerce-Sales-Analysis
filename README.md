@@ -109,7 +109,7 @@ ORDER BY Total_Sales DESC;
 ## 📊 Power BI Dashboard Features
 
 ### Page 1: Executive Overview
-[dashboard-overview.png]
+["C:\Users\omkar\Desktop\Ecommerce-Sales Analysis\dashboard-overview.png"]
 - Total Revenue
 - Total Profit
 - Total Orders
