@@ -109,23 +109,27 @@ ORDER BY Total_Sales DESC;
 ## 📊 Power BI Dashboard Features
 
 ### Page 1: Executive Overview
+[dashboard-overview.png]
 - Total Revenue
 - Total Profit
 - Total Orders
 - Profit Margin %
 - Monthly Revenue Trend
 
-### Page 2: Product Performance
-- Revenue by Category
-- Revenue by Sub-Category
-- Top Products
-
-### Page 3: Customer Insights
+### Page 2: Customer Insights
+[customer-insights.png]
 - Revenue by Segment
 - Top Customers
 - Customer Contribution
 
+### Page 3: Product Performance
+[product-performance.png]
+- Revenue by Category
+- Revenue by Sub-Category
+- Top Products
+
 ### Page 4: Regional Analysis
+[regional-analysis.png]
 - Revenue by Region
 - Profit by Region
 - State Performance
