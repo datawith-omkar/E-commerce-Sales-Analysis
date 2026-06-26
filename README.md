@@ -123,6 +123,7 @@ ORDER BY Total_Sales DESC;
 # 📊 Power BI Dashboard Features
 
 ## Page 1: Executive Overview
+<img width="1140" height="647" alt="image" src="https://github.com/user-attachments/assets/131ca6e9-2ccd-4ad9-b03e-255c74015c12" />
 
 ### Executive Summary
 - Total Revenue
@@ -130,7 +131,6 @@ ORDER BY Total_Sales DESC;
 - Total Orders
 - Profit Margin %
 - Monthly Revenue Trend
-<img width="1151" height="647" alt="dashboard-overview" src="https://github.com/user-attachments/assets/27fde78e-b552-49b5-a1bc-69f152f71695" />
 
 ### Page 2: Customer Insights
 - Revenue by Segment
